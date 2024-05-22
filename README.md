@@ -1,1 +1,1 @@
-# odin-recipes
+This project is a basic basic recipe website. I have learned to use html tags for: lists, paragraphs, images, links, fonts, headers and basic file structure.
